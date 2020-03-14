@@ -2,7 +2,7 @@
 Persian Word Embedding Using FastText Pre-trained Model
 # Prerequisites
 * [FastText!](https://fasttext.cc/)
-* [Scikit Learn!](scikit-learn.org)
+* [Scikit Learn!](https://scikit-learn.org)
 * [plotly!](https://github.com/plotly/plotly.py)
 # T-SNE Visualization of Persian Words Embeddings
 ![-SNE Visualization of Persian Words Embeddings](https://github.com/MohammadHeydari/Persian_FastText/blob/master/tsne%20Visualization%20of%20Persian%20Words%20Embedding.png)
