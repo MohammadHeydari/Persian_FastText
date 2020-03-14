@@ -1,7 +1,9 @@
 # Persian_FastText
 Persian Word Embedding Using FastText Pre-trained Model
 # Prerequisites
-*
+* FastText
+* Scikit Learn
+* plotly
 # T-SNE Visualization of Persian Words Embeddings
 ![-SNE Visualization of Persian Words Embeddings](https://github.com/MohammadHeydari/Persian_FastText/blob/master/tsne%20Visualization%20of%20Persian%20Words%20Embedding.png)
 # Contributing
