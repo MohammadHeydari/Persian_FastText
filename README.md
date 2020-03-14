@@ -9,3 +9,4 @@ Persian Word Embedding Using FastText Pre-trained Model
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 # Acknowledgments
+* [hamedhemati!](https://github.com/hamedhemati)
