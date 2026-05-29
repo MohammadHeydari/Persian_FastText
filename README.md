@@ -4,6 +4,8 @@ This repository demonstrates how to use **pre-trained FastText embeddings** for 
 
 The project focuses on exploring semantic relationships between common Persian words by projecting high-dimensional word vectors into a 2D space.
 
+![tsne Visualization of Persian Words Embedding](https://github.com/MohammadHeydari/Persian_FastText/blob/master/tsne%20Visualization%20of%20Persian%20Words%20Embedding.png)
+
 ---
 
 ## Features
